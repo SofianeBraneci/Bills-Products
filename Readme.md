@@ -1,5 +1,5 @@
 ### API pour gerer des factures et des produits
-Pour le développement de l'API, Spring boot a été utilisé, ainsi que MySql pour gérer la persistance des données via Hibernet
+Pour le développement de l'API, Spring boot a été utilisé, ainsi que MySql pour gérer la persistance des données via Hibernate
 
 Les différents composants sont:
 
